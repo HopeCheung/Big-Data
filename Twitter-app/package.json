@@ -1,0 +1,12 @@
+{
+    "name": "twitter-hashtag-monitor",
+    "description":"monotor hasgtag and show 20 latest items in realtime.",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies" :{
+    "socket.io":"*",
+    "express": "*",
+    "twitter": "*",
+    "twit": "^2.2.5"
+    }
+}
